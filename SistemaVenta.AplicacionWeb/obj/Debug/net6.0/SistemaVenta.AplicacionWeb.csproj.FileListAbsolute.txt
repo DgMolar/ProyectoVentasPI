@@ -252,3 +252,9 @@ C:\Users\diego\source\repos\DgMolar\ProyectoVentasPI\SistemaVenta.AplicacionWeb\
 C:\Users\diego\source\repos\DgMolar\ProyectoVentasPI\SistemaVenta.AplicacionWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 C:\Users\diego\source\repos\DgMolar\ProyectoVentasPI\SistemaVenta.AplicacionWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\diego\source\repos\DgMolar\ProyectoVentasPI\SistemaVenta.AplicacionWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\diego\Source\Repos\DgMolar\ProyectoVentasPI\SistemaVenta.AplicacionWeb\bin\Debug\net6.0\Firebase.Auth.dll
+C:\Users\diego\Source\Repos\DgMolar\ProyectoVentasPI\SistemaVenta.AplicacionWeb\bin\Debug\net6.0\Firebase.dll
+C:\Users\diego\Source\Repos\DgMolar\ProyectoVentasPI\SistemaVenta.AplicacionWeb\bin\Debug\net6.0\Firebase.Storage.dll
+C:\Users\diego\Source\Repos\DgMolar\ProyectoVentasPI\SistemaVenta.AplicacionWeb\bin\Debug\net6.0\LiteDB.dll
+C:\Users\diego\Source\Repos\DgMolar\ProyectoVentasPI\SistemaVenta.AplicacionWeb\bin\Debug\net6.0\System.Reactive.dll
+C:\Users\diego\Source\Repos\DgMolar\ProyectoVentasPI\SistemaVenta.AplicacionWeb\bin\Debug\net6.0\System.Runtime.InteropServices.WindowsRuntime.dll
