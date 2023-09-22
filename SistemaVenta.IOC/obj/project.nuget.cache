@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P7QwyPS/7FI4vRLIGW/xyFr26kqw86X7OZNlqvB+BRPMsOgoaXbRSm/HE/Rez8BdPkGF3JzW1KOG4wW1ZIOSTA==",
+  "dgSpecHash": "drLBNCZal0JRVE2CVdEwvetjyTHpndIRXfVuaWQFpvH3kOAbWMVTn5ibj1YvyKjydo1/vBGDC2+MlDwMNMLSAw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\diego\\Source\\Repos\\DgMolar\\ProyectoVentasPI\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
+  "projectFilePath": "C:\\Users\\diego\\source\\repos\\DgMolar\\ProyectoVentasPI\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\diego\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\diego\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
