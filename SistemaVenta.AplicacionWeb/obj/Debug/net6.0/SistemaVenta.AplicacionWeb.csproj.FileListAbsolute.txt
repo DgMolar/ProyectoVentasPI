@@ -258,3 +258,5 @@ C:\Users\diego\Source\Repos\DgMolar\ProyectoVentasPI\SistemaVenta.AplicacionWeb\
 C:\Users\diego\Source\Repos\DgMolar\ProyectoVentasPI\SistemaVenta.AplicacionWeb\bin\Debug\net6.0\LiteDB.dll
 C:\Users\diego\Source\Repos\DgMolar\ProyectoVentasPI\SistemaVenta.AplicacionWeb\bin\Debug\net6.0\System.Reactive.dll
 C:\Users\diego\Source\Repos\DgMolar\ProyectoVentasPI\SistemaVenta.AplicacionWeb\bin\Debug\net6.0\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\diego\Source\Repos\DgMolar\ProyectoVentasPI\SistemaVenta.AplicacionWeb\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\diego\Source\Repos\DgMolar\ProyectoVentasPI\SistemaVenta.AplicacionWeb\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
